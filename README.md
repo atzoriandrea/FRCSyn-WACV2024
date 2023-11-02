@@ -58,6 +58,7 @@ You should have received a copy of the GNU General Public License along with thi
 
 
 ## Acknowledgements
+
 We acknowledge financial support
 under the National Recovery and Resilience Plan (NRRP),
 Mission 4 Component 2 Investment 1.5 - Call for tender
@@ -68,4 +69,3 @@ ECS0000038 – Project Title eINS Ecosystem of Innovation
 for Next Generation Sardinia – CUP F53C22000430001-
 Grant Assignment Decree No. 1056 adopted on June 23,
 2022 by the Italian Ministry of University and Research.
----
